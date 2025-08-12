@@ -11,3 +11,6 @@ This is my first KSP mod, please be nice :)
   <li>ModuleManager - https://github.com/sarbian/ModuleManager/releases</li>
   <li>Outer Planets Mod - https://github.com/Poodmund/Outer-Planets-Mod/releases</li>
 </ul>
+
+### License
+MIT
